@@ -13,9 +13,11 @@
       "backgroundColor": "#F5F4F1"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bouly987.herplog"
     },
     "android": {
+      "package": "com.bouly987.herplog",
       "adaptiveIcon": {
         "backgroundColor": "#F5F4F1",
         "foregroundImage": "./assets/android-icon-foreground.png",
